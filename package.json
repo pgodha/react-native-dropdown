@@ -1,6 +1,6 @@
 {
   "name": "@bluejeans/react-native-dropdown",
-  "version": "0.0.7-rc.4",
+  "version": "0.0.7-rc.5",
   "description": "A better Select dropdown menu for react-native",
   "main": "lib/index.js",
   "scripts": {
