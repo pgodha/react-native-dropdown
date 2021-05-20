@@ -1,6 +1,6 @@
 {
   "name": "@bluejeans/react-native-dropdown",
-  "version": "0.0.7-rc.11",
+  "version": "0.0.7-rc.12",
   "description": "A better Select dropdown menu for react-native",
   "main": "lib/index.js",
   "scripts": {
@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/alinz/react-native-dropdown",
   "dependencies": {
-    "@bluejeans/react-native-bluejeans-components": "^0.2.25"
+    "@bluejeans/react-native-bluejeans-components": "^0.2.26"
   }
 }
